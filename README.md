@@ -48,4 +48,5 @@ Manutenção consciente dos valores extremos por representarem características 
 2. Importar o Repositório
 - Clique em: Fazer Upload de Notebook
 - Selecione a opção **Github** e cole o link desse repositório no campo de busca: https://github.com/oeduardohaag/maquina-de-hits
-
+3. Faça o download do dataset **spotify-tracks-dataset.csv** presente nesse repositório para fazer a filtragem e higienização com o arquivo
+4. Faça o upload do dataset na parte de **Arquivos** do notebook
